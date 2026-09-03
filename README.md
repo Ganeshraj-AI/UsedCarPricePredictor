@@ -2,6 +2,8 @@
 
 An academic, beginner-friendly Python Machine Learning project designed to demonstrate **Tabular Regression** using the **Random Forest Regressor** algorithm.
 
+🌐 **Live Streamlit App**: [https://usedcarpricepredictor-kosyjnksvdvtsuaid4ufgq.streamlit.app/](https://usedcarpricepredictor-kosyjnksvdvtsuaid4ufgq.streamlit.app/)
+
 ---
 
 ## What Problem We Are Solving
@@ -22,9 +24,11 @@ Predicting used car prices is significantly harder than basic linear regression 
 
 ## 🚀 Interactive Streamlit Web App
 
+🌐 **Live Deployed App**: [https://usedcarpricepredictor-kosyjnksvdvtsuaid4ufgq.streamlit.app/](https://usedcarpricepredictor-kosyjnksvdvtsuaid4ufgq.streamlit.app/)
+
 The project includes an interactive web dashboard built with **Streamlit** (`app.py`), allowing real-time price predictions and data exploration.
 
-### How to Run the App:
+### How to Run Locally:
 ```bash
 py -m streamlit run app.py
 ```
